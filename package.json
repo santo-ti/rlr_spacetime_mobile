@@ -20,6 +20,7 @@
     "@rocketseat/eslint-config": "^2.2.2",
     "@types/react": "~18.2.45",
     "eslint": "^8.57.0",
+    "prettier-plugin-tailwindcss": "^0.6.6",
     "tailwindcss": "^3.3.2",
     "typescript": "^5.3.3"
   },
